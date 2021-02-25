@@ -4,7 +4,9 @@
  * QQ群121376426
  * http://blog.yundiantech.com/
  */
-
+/**
+开始学习git
+/
 #include "mainwindow.h"
 #include <QApplication>
 
